@@ -1,2 +1,3 @@
 # Impacto-del-clima-en-viajes-en-taxi-en-Chicago
-Análisis del efecto de las condiciones climáticas, especialmente la lluvia, en la duración y distribución de viajes en taxi en Chicago, con enfoque en trayectos entre el Loop y el Aeropuerto O'Hare.
+
+En este proyecto se estudia cómo el clima influye en los viajes en taxi en Chicago, analizando la duración de los trayectos entre el Loop y el Aeropuerto Internacional O'Hare, la distribución de destinos en barrios de la ciudad y el desempeño de las principales empresas de taxis bajo diferentes condiciones climáticas. Se realiza limpieza de datos, análisis descriptivo, identificación de barrios clave, evaluación de empresas y una prueba de hipótesis para medir el impacto de los sábados lluviosos en la duración de los viajes. Los resultados aportan recomendaciones para mejorar la eficiencia del servicio.
